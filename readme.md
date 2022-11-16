@@ -7,6 +7,9 @@ JavaScript quiz project for Challenge 4
 ## Deployment Website
 https://miahhub.github.io/CodingQuizProject/
 
+## GitHub Repository
+https://github.com/MiahHub/CodingQuizProject
+
 ## Screenshots
 ![Start Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Start Screen")
 ![Wrong Question Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Quiz%20Wrong%20Question%20Screen.JPG?raw=true "Wrong Question Screen")
@@ -18,7 +21,6 @@ HTML
 CSS
 JavaScript
 
-## GitHub Repository
 
 
 ## Status
