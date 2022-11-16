@@ -9,9 +9,9 @@ JavaScript quiz project for Challenge 4
 
 ## Screenshots
 ![Start Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Start Screen")
-![Wrong Question Screen](MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Wrong Question Screen")
-![Correct Screen](/relative/path/to/img.jpg?raw=true "Correct Screen")
-![High Score Screen](/relative/path/to/img.jpg?raw=true "High Score Screen")
+![Wrong Question Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Quiz%20Wrong%20Question%20Screen.JPG?raw=true "Wrong Question Screen")
+![Correct Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Quiz%20Correct%20Question%20Screen.JPG?raw=true "Correct Screen")
+![High Score Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Quiz%20Scores%20Summary%20Screen.JPG?raw=true "High Score Screen")
 
 ## Code Used 
 HTML
