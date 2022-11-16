@@ -8,8 +8,10 @@ JavaScript quiz project for Challenge 4
 //put gitpages site here dumbass//
 
 ## Screenshots
-//put screenshots here this time stupid//
-(./assets/screenshots.)
+![Start Screen](/relative/path/to/img.jpg?raw=true "Start Screen")
+![Wrong Question Screen](/relative/path/to/img.jpg?raw=true "Wrong Question Screen")
+![Correct Screen](/relative/path/to/img.jpg?raw=true "Correct Screen")
+![High Score Screen](/relative/path/to/img.jpg?raw=true "High Score Screen")
 
 ## Code Used 
 HTML
