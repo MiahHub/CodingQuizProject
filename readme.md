@@ -8,8 +8,8 @@ JavaScript quiz project for Challenge 4
 //put gitpages site here dumbass//
 
 ## Screenshots
-![Start Screen](/relative/path/to/img.jpg?raw=true "Start Screen")
-![Wrong Question Screen](/relative/path/to/img.jpg?raw=true "Wrong Question Screen")
+![Start Screen](MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Start Screen")
+![Wrong Question Screen](MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Wrong Question Screen")
 ![Correct Screen](/relative/path/to/img.jpg?raw=true "Correct Screen")
 ![High Score Screen](/relative/path/to/img.jpg?raw=true "High Score Screen")
 
