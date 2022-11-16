@@ -5,7 +5,7 @@ JavaScript Code Quiz
 JavaScript quiz project for Challenge 4
 
 ## Deployment Website
-//put gitpages site here dumbass//
+https://miahhub.github.io/CodingQuizProject/
 
 ## Screenshots
 ![Start Screen](https://github.com/MiahHub/CodingQuizProject/blob/main/assets/screenshots/Qiiz%20Start%20Screen.JPG?raw=true "Start Screen")
@@ -18,8 +18,11 @@ HTML
 CSS
 JavaScript
 
+## GitHub Repository
+
+
 ## Status
-Complete and free of known bugs.
+Complete
  
 ## Contact
 Jeremiah Chesley
